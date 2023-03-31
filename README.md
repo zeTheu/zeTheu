@@ -1,6 +1,8 @@
-<div>
-  <h1><strong>alert("Hello, World!)</strong></h1>
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=alert("Hello,+World!");Olá!+Meu+nome+é+Matheus+dos+Reis+Fonseca;Tenho+22+anos;Moro+em+Passos,+Minas+Gerais;Estou+cursando+Ciência+da+Computação+(UNIP);Seja+bem+vindo+♥+:%29)](https://git.io/typing-svg)
+
+##
 
 - 🔭 Estou fazendo estágio em uma empresa de CRM (Clieent)
 - 🌱 Atualmente estou aprendendo JavaScript, cursando Ciência da Computação.
@@ -45,7 +47,7 @@
 ##
   
 <div>
-  <h3><strong>Estudando:</strong></h3>
+  <h3 align="left"><strong>Estudando:</strong></h3>
   <img align="left" alt="Matt-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="left" alt="Matt-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="left" alt="Matt-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
