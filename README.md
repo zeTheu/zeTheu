@@ -41,3 +41,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zeTheu&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeTheu&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
+
+##
+  
+<div>
+  <h3><strong>Estudando:</strong></h3>
+  <img align="left" alt="Matt-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="left" alt="Matt-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="left" alt="Matt-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+</div>
