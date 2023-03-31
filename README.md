@@ -1,10 +1,10 @@
 <div>
-  <h2> print('Hello, World!')</h2>
+  <h1><strong>alert("Hello, World!)</strong></h1>
 </div>
 
-- 🔭 Hoje estou procurando emprego na área de Back-End
-- 🌱 Atualmente estou aprendendo Python, cursando Ciência da Computação
-- ⚡ Level 21
+- 🔭 Estou fazendo estágio em uma empresa de CRM (Clieent)
+- 🌱 Atualmente estou aprendendo JavaScript, cursando Ciência da Computação.
+- ⚡ Level 22
 - 🤓 Nerd
 
 <div align="center">
