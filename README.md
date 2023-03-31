@@ -40,8 +40,8 @@
 
 <div align="center">
   <a href="https://github.com/zeTheu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zeTheu&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeTheu&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" height="195px" src="https://github-readme-stats.vercel.app/api?username=zeTheu&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeTheu&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 ##
