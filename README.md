@@ -33,7 +33,7 @@
 
 <div align="center"> 
   <a href="https://instagram.com/theus_reis035" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://outlook.live.com/mail/0/deeplink/compose/AQMkADAwATYwMAItZjE5My0zY2QxLTAwAi0wMAoARgAAA2TOiskRk5tNgPtMcW4o%2FhQHAPs6EUa%2B9ylIlcsP9LGzA0gAAAIBDwAAAPs6EUa%2B9ylIlcsP9LGzA0gABjN6pl8AAAA%3D?popoutv2=1&version=20230324008.10" target="blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+  <a href="matheuzim011@hotmail.com" target="blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href = "https://www.tiktok.com/@zetheu"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-dos-reis-fonseca-043768250" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
