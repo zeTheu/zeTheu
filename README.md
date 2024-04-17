@@ -4,9 +4,9 @@
 
 ##
 
-- 🔭 Estou fazendo estágio em uma empresa de CRM (Clieent)
-- 🌱 Atualmente estou aprendendo JavaScript, cursando Ciência da Computação.
-- ⚡ Level 22
+- 🔭 Completado um estágio em uma empresa de CRM (Clieent) onde fiz um projeto de Gestão Financeira (NextJs, NestJs, MongoDB)
+- 🌱 Atualmente estou aprendendo NextJs (Front-End), NextJs (Back-End) e MongoDB, e cursando Ciência da Computação (7/8).
+- ⚡ Level 23
 - 🤓 Nerd
 
 <div align="center">
@@ -47,9 +47,10 @@
   
 <div>
   <h3 align="left"><strong>Estudando:</strong></h3>
-  <img align="left" alt="Matt-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="left" alt="Matt-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="left" alt="Matt-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  
+  <img align="left" alt="Matt-NextJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+  <img align="left" alt="Matt-NestJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+  <img align="left" alt="Matt-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
