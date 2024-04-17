@@ -10,8 +10,8 @@
 
 - 🔭 Completado um estágio em uma empresa de CRM (Clieent) onde fiz um projeto de Gestão Financeira (NextJs, NestJs, MongoDB)
 - 🌱 Atualmente estou aprendendo NextJs, NestJs, Tailwind e MongoDB, e cursando Ciência da Computação (7/8).
-- ⚡ Level 23
-- 🤓 Nerd
+- ⚡ 23 anos.
+- 🤓 Nerd.
 
 <div align="center">
     <h2>:alien: Perfil :alien:</h2>
