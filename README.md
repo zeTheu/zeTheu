@@ -5,7 +5,7 @@
 ##
 
 - 🔭 Completado um estágio em uma empresa de CRM (Clieent) onde fiz um projeto de Gestão Financeira (NextJs, NestJs, MongoDB)
-- 🌱 Atualmente estou aprendendo NextJs (Front-End), NextJs (Back-End) e MongoDB, e cursando Ciência da Computação (7/8).
+- 🌱 Atualmente estou aprendendo NextJs, NestJs, Tailwind e MongoDB, e cursando Ciência da Computação (7/8).
 - ⚡ Level 23
 - 🤓 Nerd
 
@@ -51,6 +51,7 @@
   <img align="left" alt="Matt-NextJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
   <img align="left" alt="Matt-NestJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
   <img align="left" alt="Matt-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
+  <img align="left" alt="Matt-Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
