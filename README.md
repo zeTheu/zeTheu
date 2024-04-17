@@ -5,6 +5,13 @@
 ##
 
 <div align="center">
+    <h2>:alien: Perfil :alien:</h2>
+    <p style="font-size: 16px;">
+    Iniciante em programação, apaixonado por arte e por tecnologia.
+    </p>
+</div>
+
+<div align="center">
     <h2>🤵 Sobre 🤵</h2>
 </div>
 
@@ -12,13 +19,6 @@
 - 🌱 Atualmente estou aprendendo NextJs, NestJs, Tailwind e MongoDB, e cursando Ciência da Computação (7/8).
 - ⚡ 23 anos.
 - 🤓 Nerd.
-
-<div align="center">
-    <h2>:alien: Perfil :alien:</h2>
-    <p style="font-size: 16px;">
-    Iniciante em programação, apaixonado por arte e por tecnologia.
-    </p>
-</div>
 
 <div align="center">
   <h2>♦ H o b b i e s : ♦</h2>
