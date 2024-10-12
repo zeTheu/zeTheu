@@ -16,7 +16,7 @@
 </div>
 
 - 🔭 Completado um estágio em uma empresa de CRM (Clieent) onde fiz um projeto de Gestão Financeira (NextJs, NestJs, MongoDB)
-- 🌱 Atualmente estou aprendendo NextJs, NestJs, Tailwind e MongoDB, e cursando Ciência da Computação (7/8).
+- 🌱 Atualmente estou aprendendo NextJs, NestJs, TailwindCSS e cursando Ciência da Computação (7/8).
 - ⚡ 23 anos.
 - 🤓 Nerd.
 
@@ -25,7 +25,7 @@
 </div>
 
 - 🎮 Video-Games
-- 📄 Composição
+- 📄 Composição e Produção Musical
 - 🎲 RPG de Mesa
 - 🎸 Música
 - 📷 Fotografia
