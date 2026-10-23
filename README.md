@@ -47,7 +47,7 @@
 
 ##
   
-<div align="left">
+<div align="left" gap="5px">
   <h3 align=""><strong>Estudando:</strong></h3>
   
   <img align="" alt="Matt-Typescript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
