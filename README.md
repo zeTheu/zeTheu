@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=alert("Hello,+World!");Olá!+Meu+nome+é+Matheus+dos+Reis+Fonseca;Tenho+22+anos;Moro+em+Passos,+Minas+Gerais;Estou+cursando+Ciências+da+Computação+(UNIP);Seja+bem+vindo+♥+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=alert("Hello,+World!");Olá!+Meu+nome+é+Matheus+dos+Reis+Fonseca;Tenho+25+anos;Moro+em+Passos,+Minas+Gerais;Estou+cursando+Ciências+da+Computação+(UNIP);Seja+bem+vindo+♥+:%29)](https://git.io/typing-svg)
 
 ##
 
@@ -50,10 +50,10 @@
 <div>
   <h3 align="left"><strong>Estudando:</strong></h3>
   
-  <img align="" alt="Matt-Typescript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img align="" alt="Matt-NodeJs" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  <img align="" alt="Matt-NextJs" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-  <img align="" alt="Matt-MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img align="left" alt="Matt-Typescript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img align="left" alt="Matt-NodeJs" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  <img align="left" alt="Matt-NextJs" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+  <img align="left" alt="Matt-MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
